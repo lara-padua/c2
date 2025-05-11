@@ -3,4 +3,3 @@ if x == 1:
     print("A resposta está correta.")
 else:
     print("A resposta está incorreta.")
-huhhuuhhuuh
